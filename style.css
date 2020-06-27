@@ -5,7 +5,7 @@
 }
 svg
 {
-    position: relative;
+    position: static;
     top: 0;
     left: 0;
     height: 100%;
